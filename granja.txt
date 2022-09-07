@@ -1,0 +1,6 @@
+12345678;3;2022;01 de septiembre de 2020;vaca;4.5f;3;
+23456789;2;2022;01 de octubre 2021;cabra;7.2f;16;
+92345678;3;2022;22 de noviembre 2020;vaca;8.3f;6;
+92343678;3;2022;22 de noviembre 2017;cabra;8.3f;6;
+92341678;4;2022;22 de noviembre 2018;vaca;8.3f;6;
+92341234;2;2022;22 de noviembre 2020;cabra;13;3f;6;
